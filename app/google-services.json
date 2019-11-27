@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "964197448919",
+    "firebase_url": "https://innovaccer-6b9f4.firebaseio.com",
+    "project_id": "innovaccer-6b9f4",
+    "storage_bucket": "innovaccer-6b9f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964197448919:android:53bc95b2fb9d867b4bc492",
+        "android_client_info": {
+          "package_name": "com.example.innovaccer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964197448919-ev46ponn7m2eu4tb9mk8hopfu2ebqr7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.innovaccer",
+            "certificate_hash": "c4771f8ec1a6863fb6a8bd9feec320f07e813fc7"
+          }
+        },
+        {
+          "client_id": "964197448919-vrj19as1vp2uv4d755hk2iikklv6aok4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4nz-REtMJu9cnargSiHJnV30fgUrvpUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964197448919-vrj19as1vp2uv4d755hk2iikklv6aok4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
