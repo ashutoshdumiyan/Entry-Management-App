@@ -1,6 +1,6 @@
 
 # Description
-Innovaccer is an android application used to manage entries of visitors. On arrival, the visitor will enter their details along with their host's details. When the visitor checks in, the host will receive the details os visitor by E-Mail and SMS. When the visit is over, the visitor can check-out and their visit's details will be sent to them via an E-Mail.
+This is an android application used to manage entries of visitors. On arrival, the visitor will enter their details along with their host's details. When the visitor checks in, the host will receive the details os visitor by E-Mail and SMS. When the visit is over, the visitor can check-out and their visit's details will be sent to them via an E-Mail.
 
 Platform - Android <br/>
 Frontend - Java <br/>
